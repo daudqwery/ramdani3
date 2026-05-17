@@ -95,10 +95,6 @@ export default function AdminLayout() {
           >
             Login
           </button>
-
-          <div className="mt-4 text-center text-xs text-gray-400">
-            Username: admin <br />
-            Password: admin123
           </div>
         </div>
       </div>
